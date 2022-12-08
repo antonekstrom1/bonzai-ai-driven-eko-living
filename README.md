@@ -1,4 +1,6 @@
-# Bonzai - AI Driven Eko Living
+<p align="center"><img src="https://gcdnb.pbrd.co/images/8uJog9R4rycY.png?o=1" width="100%" height="100%"/></p>
+
+# Bonz.ai - AI Driven Eko Living
 Bonz.ai is an AI-driven hotel with focus on relaxing, ecological and personal tailored experiences. All our guests are looked after by our AI-concierge Bonzo, who analyzes your habits and preferences and continuously adapts your hotel experience to give you the highest possible comfort.
 
 # Individual School Exam
